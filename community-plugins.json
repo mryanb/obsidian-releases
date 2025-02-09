@@ -15050,7 +15050,7 @@
     "repo": "GizmoRay/obsidian-goal-tracker"  
   },
   {
-    "id": "asana",
+    "id": "obsidian-asana",
     "name": "Asana",
     "author": "Ryan Bantz",
     "description": "Create Asana tasks from highlighted text or the current line.",
