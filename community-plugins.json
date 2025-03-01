@@ -15015,13 +15015,6 @@
     "repo": "GizmoRay/obsidian-goal-tracker"  
   },
   {
-    "id": "asana",
-    "name": "Asana",
-    "author": "Ryan Bantz",
-    "description": "Create Asana tasks from highlighted text or the current line.",
-    "repo": "mryanb/obsidian-asana"  
-  },
-  {
     "id": "bibdesk-integration",
     "name": "BibDesk Integration",
     "description": "Import BibTex citations into your notes and open PDF documents linked in a BibDesk library",
@@ -15664,5 +15657,12 @@
     "author": "Devon22",
     "description": "Browse note files in a grid view.",
     "repo": "Devon22/obsidian-gridexplorer"
+  },
+  {
+    "id": "asana",
+    "name": "Asana",
+    "author": "Ryan Bantz",
+    "description": "Create Asana tasks from highlighted text or the current line.",
+    "repo": "mryanb/obsidian-asana"  
   }
 ]
